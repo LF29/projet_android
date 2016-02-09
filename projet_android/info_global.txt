@@ -1,0 +1,8 @@
+Informations de la BDD : 
+
+Serveur : localhost
+Nom BDD : appli_roadtrip
+User : root
+PassWord : root_roadtrip
+
+
