@@ -1,3 +1,3 @@
 Présentation du projet : 
 
-Création d'un application permettant la centralisation des dépenses
+Création d'une application permettant la centralisation des dépenses lors des roadtrips
