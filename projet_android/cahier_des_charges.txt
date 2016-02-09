@@ -1,0 +1,6 @@
+Cahier des charges : 
+
+- Permettre la connexion depuis G+
+- Permettre l'ajout d'un utilisateur ( par le biais de son adresse gmail / g+ ? )
+- Permettre l'ajout d'une catégorie (thématique) pour la hiérarchie des dépenses saisies
+- Permettre l'ajout de dépenses
